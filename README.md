@@ -1,4 +1,4 @@
-# 👋 Yokoso! I'm Mike Spencer Lalica
+# 👋 Yokoso! I'm Mike Lalica
 
 ### 🎓 Academic Background
 *   🏫 *University:* Nueva Vizcaya State University (NVSU)
