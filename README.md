@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Yokoso! I'm Mike Spencer Lalica
 
-<!--
-**mikelalica/mikelalica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Academic Background
+*   🏫 *University:* Nueva Vizcaya State University (NVSU)
+*   📜 *Course:* Bachelor of Science in Information Technology (BSIT)
+*   🎯 *Specialization:* Network Development Management (NDM) - 3rd Year
+*   🚀 *Current Focus:* Learning advanced network infrastructures, network security, and systems administration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools (Learning & Using)
+
+#### 🌐 Languages & Frontend
+<p align="left">
+  <img src="https://shields.io" alt="HTML5"/>
+  <img src="https://shields.io" alt="CSS3"/>
+  <img src="https://shields.io" alt="JavaScript"/>
+</p>
+
+#### 📡 Networking & Systems
+<p align="left">
+  <img src="https://shields.io" alt="Cisco Packet Tracer"/>
+</p>
+
+#### 🧰 Tools & Editors
+<p align="left">
+  <img src="https://shields.io" alt="VS Code"/>
+  <img src="https://shields.io" alt="Git"/>
+  <img src="https://shields.io" alt="GitHub"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Mike's GitHub Stats" />
+</p>
+
+---📩 Feel free to explore my repositories or reach out to me for collaborations!*
