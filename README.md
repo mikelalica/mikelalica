@@ -1,7 +1,7 @@
-<div align="center">
+q<div align="center">
 
 <p align="center">
-  <img src = "./Screenshot_2026-03-10-14-56-18-025_com.ss.android.ugc.trill.jpg"   alt="Mike Lalica profile header">
+  <img src = "./IMG_20261008_121450.jpg"   alt="Mike Lalica profile header">
 </p>
 </div>
 # 👋 Yokoso! I'm Mike Lalica
