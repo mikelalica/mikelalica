@@ -1,4 +1,4 @@
-q<div align="center">
+<div align="center">
 
 <p align="center">
   <img src = "./IMG_20261008_121450.jpg"   alt="Mike Lalica profile header">
