@@ -1,3 +1,9 @@
+<div align="center">
+
+<p align="center">
+  <img src="./images.jpeg" alt="JaySon profile header">
+</p>
+</div>
 # 👋 Yokoso! I'm Mike Lalica
 
 ### 🎓 Academic Background
